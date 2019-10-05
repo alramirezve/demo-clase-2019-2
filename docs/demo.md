@@ -14,9 +14,9 @@ bla bla bla
 
 ## Subtitulo 3
 
-[ ] Lista de chequeo 1
+- [X] Lista de chequeo 1
 
-[ ] Lista de chequeo 2
+- [ ] Lista de chequeo 2
 
 ## Subtitulo 4
 
@@ -28,4 +28,4 @@ $$X^2$$
 
 Links
 
-Usa el Google para aprender(https://www.google.com)
+[Usa el Google para aprender](https://www.google.com)
